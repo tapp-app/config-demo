@@ -1,0 +1,13 @@
+{
+	"env": "dev",
+	"port": 80,
+	"mysqlHost": {
+		"host": "db.host.com",
+		"username": "user",
+		"password": "userpw"
+		},
+	"facebook": {
+		"appId": "abcdefg123456",
+		"secretKey": "a1b2c3d4e5"
+	}
+}
